@@ -1,0 +1,8 @@
+build*/
+dist/
+release/
+.cache/
+.vs/
+.DS_Store
+*.user
+/compile_commands.json
